@@ -52,3 +52,6 @@ Design database tables for Books, Members, Transactions, and Staff.
 ## PACKAGE DIAGRAM:
 
 <img width="1022" height="543" alt="PACKAGEEXP2" src="https://github.com/user-attachments/assets/e6993955-1799-4ade-bbe3-b2957de17111" />
+
+# RESULT:
+The Software Requirements Specification (SRS) for the Library Management System was successfully prepared, and the required six UML diagrams were created to illustrate the system's functionality, structure, and interactions.
